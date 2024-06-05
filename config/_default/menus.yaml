@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 2eeaf617-4182-49f2-a0d9-feb02edd0889
+  name: page1
+  pageRef: /pages/page1
+  weight: 10
