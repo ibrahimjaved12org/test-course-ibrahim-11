@@ -4,7 +4,20 @@
   "level": [
     "Undergraduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Business",
+      "Business Ethics"
+    ],
+    [
+      "Health and Medicine",
+      "Biomedical Instrumentation"
+    ],
+    [
+      "Health and Medicine",
+      "Biomedical Enterprise"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [],
@@ -16,6 +29,16 @@
   },
   "course_title": "test-course-ibrahim-11",
   "hide_download": false,
+  "mit-learn-topics": [
+    [
+      "Fine Arts",
+      "Art History"
+    ],
+    [
+      "Business",
+      "Accounting"
+    ]
+  ],
   "course_description": "**test-course-ibrahim-11**\n\n***publish*****Publish**",
   "department_numbers": [
     "1"
