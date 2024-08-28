@@ -50,6 +50,17 @@
     "website": "test-course-ibrahim-11"
   },
   "learning_resource_types": [],
+  "mit-learn-primary-topic": [
+    [
+      "Business",
+      "Accounting"
+    ]
+  ],
+  "mit-learn-secondary-topic": [
+    [
+      "Architecture"
+    ]
+  ],
   "site_uid": "f9422512-535b-4a8e-8d79-39de4b626237",
   "site_short_id": "test-course-ibrahim-11"
 }
