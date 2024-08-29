@@ -6,16 +6,11 @@
   ],
   "topics": [
     [
-      "Business",
-      "Business Ethics"
+      "Energy"
     ],
     [
-      "Health and Medicine",
-      "Biomedical Instrumentation"
-    ],
-    [
-      "Health and Medicine",
-      "Biomedical Enterprise"
+      "Engineering",
+      "Civil Engineering"
     ]
   ],
   "legacy_uid": "",
@@ -37,6 +32,16 @@
     [
       "Business",
       "Accounting"
+    ]
+  ],
+  "mit_learn_topics": [
+    [
+      "Art, Design & Architecture",
+      "Art History"
+    ],
+    [
+      "Data Science, Analytics & Computer Technology",
+      "Programming & Coding"
     ]
   ],
   "course_description": "**test-course-ibrahim-11**\n\n***publish*****Publish**",
