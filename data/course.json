@@ -4,20 +4,7 @@
   "level": [
     "Undergraduate"
   ],
-  "topics": [
-    [
-      "Business",
-      "Business Ethics"
-    ],
-    [
-      "Health and Medicine",
-      "Biomedical Instrumentation"
-    ],
-    [
-      "Health and Medicine",
-      "Biomedical Enterprise"
-    ]
-  ],
+  "topics": [],
   "legacy_uid": "",
   "instructors": {
     "content": [],
@@ -39,6 +26,7 @@
       "Accounting"
     ]
   ],
+  "mit_learn_topics": [],
   "course_description": "**test-course-ibrahim-11**\n\n***publish*****Publish**",
   "department_numbers": [
     "1"
